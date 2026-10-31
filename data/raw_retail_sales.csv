@@ -1,0 +1,257 @@
+order_line_id,order_id,order_date,customer_id,customer_name,city,state,region,product_id,product_name,category,quantity,unit_price,discount_pct,unit_cost,sales_channel
+1,ORD0001,27-02-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,204,Office Chair,Furniture,2,5500,0,3600,Marketplace
+2,ORD0001,27-02-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,202,Keyboard,Electronics,5,1260,0,720,Marketplace
+3,ORD0002,16-01-2026,1002,Diya Patel,Mumbai,Maharashtra,West,201,Wireless Mouse,Electronics,5,650,0.15,390,Online
+4,ORD0003,03-08-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,205,Water Bottle,Lifestyle,1,450,0.1,210,Store
+5,ORD0003,03-08-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,206,USB-C Hub,Electronics,3,2200,0,1450,Store
+6,ORD0003,03-08-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,206,USB-C Hub,Electronics,1,2090,0.1,1450,Store
+7,ORD0004,19-02-2026,1006,Meera Joshi,Pune,Maharashtra,West,205,Water Bottle,Lifestyle,1,472.5,0.15,210,Store
+8,ORD0004,19-02-2026,1006,Meera Joshi,Pune,Maharashtra,West,202,Keyboard,Electronics,4,1140,0.15,720,Store
+9,ORD0004,19-02-2026,1006,Meera Joshi,Pune,Maharashtra,West,205,Water Bottle,Lifestyle,5,450,0.15,210,Store
+10,ORD0005,09-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,204,Office Chair,Furniture,3,5225,0,3600,Online
+11,ORD0005,09-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,202,Keyboard,Electronics,4,1200,0.1,720,Online
+12,ORD0005,09-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,206,USB-C Hub,Electronics,2,2200,0.05,1450,Online
+13,ORD0006,18-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,202,Keyboard,Electronics,5,1200,0.15,720,Marketplace
+14,ORD0006,18-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,204,Office Chair,Furniture,2,5775,0.1,3600,Marketplace
+15,ORD0006,18-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,205,Water Bottle,Lifestyle,5,450,0.05,210,Marketplace
+16,ORD0007,29-01-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,207,Desk Lamp,Furniture,3,902.5,0,540,Online
+17,ORD0007,29-01-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,206,USB-C Hub,Electronics,2,2310,0.1,1450,Online
+18,ORD0008,23-08-2026,1003,Kabir Verma,Delhi,Delhi,North,204,Office Chair,Furniture,5,5500,0.15,3600,Store
+19,ORD0009,08-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,204,Office Chair,Furniture,2,5775,0,3600,Store
+20,ORD0009,08-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,201,Wireless Mouse,Electronics,1,650,0,390,Store
+21,ORD0010,05-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,207,Desk Lamp,Furniture,5,997.5,0.15,540,Online
+22,ORD0010,05-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,205,Water Bottle,Lifestyle,5,427.5,0,210,Online
+23,ORD0011,17-05-2026,1006,Meera Joshi,Pune,Maharashtra,West,207,Desk Lamp,Furniture,2,997.5,0,540,Online
+24,ORD0011,17-05-2026,1006,Meera Joshi,Pune,Maharashtra,West,205,Water Bottle,Lifestyle,5,450,0.15,210,Online
+25,ORD0012,24-02-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,204,Office Chair,Furniture,2,5500,0,3600,Marketplace
+26,ORD0012,24-02-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,201,Wireless Mouse,Electronics,5,650,0.1,390,Marketplace
+27,ORD0012,24-02-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,201,Wireless Mouse,Electronics,1,650,0.05,390,Marketplace
+28,ORD0013,03-05-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,202,Keyboard,Electronics,1,1260,0,720,Online
+29,ORD0013,03-05-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,203,Notebook Pack,Stationery,2,189,0.15,90,Online
+30,ORD0013,03-05-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,203,Notebook Pack,Stationery,3,189,0,90,Online
+31,ORD0014,13-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,206,USB-C Hub,Electronics,4,2310,0,1450,Store
+32,ORD0014,13-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,204,Office Chair,Furniture,2,5225,0.05,3600,Store
+33,ORD0014,13-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,201,Wireless Mouse,Electronics,5,650,0.15,390,Store
+34,ORD0015,23-04-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,201,Wireless Mouse,Electronics,2,617.5,0,390,Online
+35,ORD0015,23-04-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,206,USB-C Hub,Electronics,1,2200,0.05,1450,Online
+36,ORD0015,23-04-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,208,Pen Set,Stationery,2,120,0.15,45,Online
+37,ORD0016,31-08-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,204,Office Chair,Furniture,1,5225,0.1,3600,Store
+38,ORD0016,31-08-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,206,USB-C Hub,Electronics,4,2310,0.1,1450,Store
+39,ORD0017,28-01-2026,1002,Diya Patel,Mumbai,Maharashtra,West,206,USB-C Hub,Electronics,1,2200,0,1450,Online
+40,ORD0017,28-01-2026,1002,Diya Patel,Mumbai,Maharashtra,West,204,Office Chair,Furniture,5,5775,0,3600,Online
+41,ORD0018,05-08-2026,1003,Kabir Verma,Delhi,Delhi,North,204,Office Chair,Furniture,1,5775,0.15,3600,Store
+42,ORD0018,05-08-2026,1003,Kabir Verma,Delhi,Delhi,North,202,Keyboard,Electronics,1,1140,0,720,Store
+43,ORD0019,02-05-2026,1003,Kabir Verma,Delhi,Delhi,North,208,Pen Set,Stationery,2,126,0,45,Store
+44,ORD0019,02-05-2026,1003,Kabir Verma,Delhi,Delhi,North,203,Notebook Pack,Stationery,4,171,0.1,90,Store
+45,ORD0020,16-05-2026,1008,Saanvi Nair,Kochi,Kerala,South,208,Pen Set,Stationery,2,120,0.05,45,Store
+46,ORD0020,16-05-2026,1008,Saanvi Nair,Kochi,Kerala,South,204,Office Chair,Furniture,1,5225,0.05,3600,Store
+47,ORD0021,30-01-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,203,Notebook Pack,Stationery,1,171,0,90,Marketplace
+48,ORD0021,30-01-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,202,Keyboard,Electronics,5,1140,0,720,Marketplace
+49,ORD0022,26-07-2026,1002,Diya Patel,Mumbai,Maharashtra,West,201,Wireless Mouse,Electronics,5,617.5,0.1,390,Marketplace
+50,ORD0023,25-09-2026,1006,Meera Joshi,Pune,Maharashtra,West,206,USB-C Hub,Electronics,2,2200,0.1,1450,Store
+51,ORD0024,09-03-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,202,Keyboard,Electronics,1,1260,0.15,720,Store
+52,ORD0024,09-03-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,202,Keyboard,Electronics,1,1200,0.15,720,Store
+53,ORD0025,16-05-2026,1003,Kabir Verma,Delhi,Delhi,North,204,Office Chair,Furniture,3,5500,0,3600,Store
+54,ORD0026,13-08-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,201,Wireless Mouse,Electronics,5,650,0,390,Marketplace
+55,ORD0026,13-08-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,203,Notebook Pack,Stationery,3,171,0,90,Marketplace
+56,ORD0027,21-03-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,204,Office Chair,Furniture,3,5500,0.05,3600,Store
+57,ORD0027,21-03-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,208,Pen Set,Stationery,3,114,0,45,Store
+58,ORD0027,21-03-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,207,Desk Lamp,Furniture,3,902.5,0,540,Store
+59,ORD0028,20-06-2026,1003,Kabir Verma,Delhi,Delhi,North,203,Notebook Pack,Stationery,4,189,0.15,90,Marketplace
+60,ORD0028,20-06-2026,1003,Kabir Verma,Delhi,Delhi,North,201,Wireless Mouse,Electronics,1,617.5,0,390,Marketplace
+61,ORD0029,19-01-2026,1006,Meera Joshi,Pune,Maharashtra,West,203,Notebook Pack,Stationery,4,180,0,90,Marketplace
+62,ORD0029,19-01-2026,1006,Meera Joshi,Pune,Maharashtra,West,205,Water Bottle,Lifestyle,3,427.5,0.05,210,Marketplace
+63,ORD0029,19-01-2026,1006,Meera Joshi,Pune,Maharashtra,West,204,Office Chair,Furniture,2,5225,0.05,3600,Marketplace
+64,ORD0030,28-07-2026,1010,Kiara Das,Kolkata,West Bengal,East,204,Office Chair,Furniture,2,5500,0.1,3600,Marketplace
+65,ORD0031,13-01-2026,1003,Kabir Verma,Delhi,Delhi,North,207,Desk Lamp,Furniture,2,950,0,540,Marketplace
+66,ORD0031,13-01-2026,1003,Kabir Verma,Delhi,Delhi,North,202,Keyboard,Electronics,4,1140,0.1,720,Marketplace
+67,ORD0032,24-04-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,205,Water Bottle,Lifestyle,2,450,0,210,Store
+68,ORD0032,24-04-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,204,Office Chair,Furniture,4,5500,0.05,3600,Store
+69,ORD0033,05-02-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,207,Desk Lamp,Furniture,5,950,0,540,Store
+70,ORD0033,05-02-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,202,Keyboard,Electronics,3,1200,0.15,720,Store
+71,ORD0033,05-02-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,205,Water Bottle,Lifestyle,1,427.5,0.15,210,Store
+72,ORD0034,11-08-2026,1006,Meera Joshi,Pune,Maharashtra,West,207,Desk Lamp,Furniture,5,902.5,0.1,540,Marketplace
+73,ORD0034,11-08-2026,1006,Meera Joshi,Pune,Maharashtra,West,204,Office Chair,Furniture,3,5225,0.1,3600,Marketplace
+74,ORD0035,01-01-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,204,Office Chair,Furniture,3,5775,0,3600,Marketplace
+75,ORD0035,01-01-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,206,USB-C Hub,Electronics,5,2200,0,1450,Marketplace
+76,ORD0035,01-01-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,205,Water Bottle,Lifestyle,5,450,0.1,210,Marketplace
+77,ORD0036,17-06-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,203,Notebook Pack,Stationery,2,189,0.1,90,Marketplace
+78,ORD0036,17-06-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,203,Notebook Pack,Stationery,5,180,0.1,90,Marketplace
+79,ORD0037,01-01-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,207,Desk Lamp,Furniture,5,950,0.1,540,Store
+80,ORD0038,15-08-2026,1008,Saanvi Nair,Kochi,Kerala,South,208,Pen Set,Stationery,2,114,0.05,45,Marketplace
+81,ORD0039,21-09-2026,1010,Kiara Das,Kolkata,West Bengal,East,204,Office Chair,Furniture,3,5500,0,3600,Store
+82,ORD0040,17-03-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,208,Pen Set,Stationery,5,114,0.1,45,Online
+83,ORD0041,01-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,207,Desk Lamp,Furniture,4,997.5,0,540,Online
+84,ORD0041,01-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,203,Notebook Pack,Stationery,1,171,0.1,90,Online
+85,ORD0041,01-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,204,Office Chair,Furniture,2,5775,0,3600,Online
+86,ORD0042,08-05-2026,1002,Diya Patel,Mumbai,Maharashtra,West,208,Pen Set,Stationery,5,120,0.1,45,Store
+87,ORD0043,16-09-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,203,Notebook Pack,Stationery,4,189,0.05,90,Marketplace
+88,ORD0043,16-09-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,204,Office Chair,Furniture,3,5775,0,3600,Marketplace
+89,ORD0044,21-05-2026,1008,Saanvi Nair,Kochi,Kerala,South,205,Water Bottle,Lifestyle,2,450,0.05,210,Online
+90,ORD0044,21-05-2026,1008,Saanvi Nair,Kochi,Kerala,South,206,USB-C Hub,Electronics,5,2090,0,1450,Online
+91,ORD0044,21-05-2026,1008,Saanvi Nair,Kochi,Kerala,South,203,Notebook Pack,Stationery,2,189,0,90,Online
+92,ORD0045,20-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,206,USB-C Hub,Electronics,5,2310,0.1,1450,Store
+93,ORD0045,20-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,201,Wireless Mouse,Electronics,2,682.5,0.1,390,Store
+94,ORD0046,11-01-2026,1010,Kiara Das,Kolkata,West Bengal,East,201,Wireless Mouse,Electronics,3,650,0.1,390,Store
+95,ORD0046,11-01-2026,1010,Kiara Das,Kolkata,West Bengal,East,207,Desk Lamp,Furniture,5,950,0.1,540,Store
+96,ORD0047,23-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,201,Wireless Mouse,Electronics,4,650,0.1,390,Store
+97,ORD0047,23-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,203,Notebook Pack,Stationery,4,180,0.15,90,Store
+98,ORD0048,14-01-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,201,Wireless Mouse,Electronics,1,682.5,0,390,Marketplace
+99,ORD0048,14-01-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,208,Pen Set,Stationery,2,114,0.05,45,Marketplace
+100,ORD0048,14-01-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,207,Desk Lamp,Furniture,3,950,0.1,540,Marketplace
+101,ORD0049,17-06-2026,1006,Meera Joshi,Pune,Maharashtra,West,207,Desk Lamp,Furniture,3,902.5,0.1,540,Store
+102,ORD0049,17-06-2026,1006,Meera Joshi,Pune,Maharashtra,West,201,Wireless Mouse,Electronics,5,617.5,0.05,390,Store
+103,ORD0050,25-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,201,Wireless Mouse,Electronics,2,650,0,390,Marketplace
+104,ORD0051,20-03-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,202,Keyboard,Electronics,5,1200,0.1,720,Online
+105,ORD0051,20-03-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,205,Water Bottle,Lifestyle,3,450,0.15,210,Online
+106,ORD0052,28-02-2026,1003,Kabir Verma,Delhi,Delhi,North,201,Wireless Mouse,Electronics,3,682.5,0.1,390,Store
+107,ORD0053,12-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,204,Office Chair,Furniture,1,5500,0.15,3600,Marketplace
+108,ORD0053,12-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,202,Keyboard,Electronics,5,1140,0.05,720,Marketplace
+109,ORD0053,12-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,207,Desk Lamp,Furniture,3,902.5,0.15,540,Marketplace
+110,ORD0054,24-06-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,202,Keyboard,Electronics,4,1200,0.1,720,Store
+111,ORD0054,24-06-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,203,Notebook Pack,Stationery,4,180,0.15,90,Store
+112,ORD0055,19-05-2026,1010,Kiara Das,Kolkata,West Bengal,East,208,Pen Set,Stationery,4,120,0.05,45,Marketplace
+113,ORD0055,19-05-2026,1010,Kiara Das,Kolkata,West Bengal,East,204,Office Chair,Furniture,1,5500,0.1,3600,Marketplace
+114,ORD0056,05-05-2026,1008,Saanvi Nair,Kochi,Kerala,South,207,Desk Lamp,Furniture,3,902.5,0.1,540,Marketplace
+115,ORD0056,05-05-2026,1008,Saanvi Nair,Kochi,Kerala,South,206,USB-C Hub,Electronics,2,2310,0,1450,Marketplace
+116,ORD0056,05-05-2026,1008,Saanvi Nair,Kochi,Kerala,South,206,USB-C Hub,Electronics,3,2200,0.05,1450,Marketplace
+117,ORD0057,22-05-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,204,Office Chair,Furniture,1,5500,0.1,3600,Online
+118,ORD0057,22-05-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,208,Pen Set,Stationery,5,120,0.1,45,Online
+119,ORD0057,22-05-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,208,Pen Set,Stationery,4,114,0,45,Online
+120,ORD0058,31-05-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,204,Office Chair,Furniture,3,5500,0.1,3600,Store
+121,ORD0058,31-05-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,206,USB-C Hub,Electronics,4,2200,0.05,1450,Store
+122,ORD0058,31-05-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,208,Pen Set,Stationery,3,120,0.05,45,Store
+123,ORD0059,29-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,206,USB-C Hub,Electronics,1,2200,0,1450,Marketplace
+124,ORD0060,21-04-2026,1008,Saanvi Nair,Kochi,Kerala,South,205,Water Bottle,Lifestyle,1,450,0.05,210,Store
+125,ORD0060,21-04-2026,1008,Saanvi Nair,Kochi,Kerala,South,204,Office Chair,Furniture,3,5500,0.05,3600,Store
+126,ORD0060,21-04-2026,1008,Saanvi Nair,Kochi,Kerala,South,201,Wireless Mouse,Electronics,5,650,0.05,390,Store
+127,ORD0061,24-01-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,203,Notebook Pack,Stationery,4,171,0,90,Marketplace
+128,ORD0061,24-01-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,205,Water Bottle,Lifestyle,4,472.5,0.1,210,Marketplace
+129,ORD0062,24-06-2026,1003,Kabir Verma,Delhi,Delhi,North,208,Pen Set,Stationery,1,114,0.1,45,Online
+130,ORD0062,24-06-2026,1003,Kabir Verma,Delhi,Delhi,North,208,Pen Set,Stationery,1,114,0,45,Online
+131,ORD0063,18-03-2026,1010,Kiara Das,Kolkata,West Bengal,East,204,Office Chair,Furniture,1,5775,0.15,3600,Store
+132,ORD0064,26-04-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,208,Pen Set,Stationery,3,126,0.05,45,Store
+133,ORD0064,26-04-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,201,Wireless Mouse,Electronics,5,617.5,0,390,Store
+134,ORD0065,19-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,203,Notebook Pack,Stationery,2,180,0.15,90,Marketplace
+135,ORD0066,08-02-2026,1003,Kabir Verma,Delhi,Delhi,North,208,Pen Set,Stationery,5,126,0.05,45,Online
+136,ORD0066,08-02-2026,1003,Kabir Verma,Delhi,Delhi,North,201,Wireless Mouse,Electronics,2,650,0.05,390,Online
+137,ORD0067,21-08-2026,1002,Diya Patel,Mumbai,Maharashtra,West,205,Water Bottle,Lifestyle,5,450,0.1,210,Marketplace
+138,ORD0068,28-02-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,203,Notebook Pack,Stationery,3,180,0,90,Online
+139,ORD0068,28-02-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,201,Wireless Mouse,Electronics,2,650,0.15,390,Online
+140,ORD0068,28-02-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,205,Water Bottle,Lifestyle,4,427.5,0.1,210,Online
+141,ORD0069,05-06-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,208,Pen Set,Stationery,4,114,0.15,45,Store
+142,ORD0069,05-06-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,201,Wireless Mouse,Electronics,4,650,0.15,390,Store
+143,ORD0069,05-06-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,205,Water Bottle,Lifestyle,1,427.5,0,210,Store
+144,ORD0070,11-01-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,203,Notebook Pack,Stationery,4,189,0.05,90,Marketplace
+145,ORD0071,03-04-2026,1010,Kiara Das,Kolkata,West Bengal,East,208,Pen Set,Stationery,1,126,0.05,45,Store
+146,ORD0071,03-04-2026,1010,Kiara Das,Kolkata,West Bengal,East,207,Desk Lamp,Furniture,3,950,0,540,Store
+147,ORD0071,03-04-2026,1010,Kiara Das,Kolkata,West Bengal,East,203,Notebook Pack,Stationery,3,189,0.1,90,Store
+148,ORD0072,28-05-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,208,Pen Set,Stationery,1,120,0.05,45,Marketplace
+149,ORD0073,15-06-2026,1002,Diya Patel,Mumbai,Maharashtra,West,201,Wireless Mouse,Electronics,5,682.5,0.1,390,Store
+150,ORD0073,15-06-2026,1002,Diya Patel,Mumbai,Maharashtra,West,201,Wireless Mouse,Electronics,2,650,0.15,390,Store
+151,ORD0073,15-06-2026,1002,Diya Patel,Mumbai,Maharashtra,West,208,Pen Set,Stationery,4,114,0,45,Store
+152,ORD0074,17-05-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,208,Pen Set,Stationery,4,114,0,45,Online
+153,ORD0074,17-05-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,204,Office Chair,Furniture,2,5500,0.15,3600,Online
+154,ORD0075,08-01-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,204,Office Chair,Furniture,1,5775,0,3600,Store
+155,ORD0076,20-03-2026,1008,Saanvi Nair,Kochi,Kerala,South,205,Water Bottle,Lifestyle,4,472.5,0.1,210,Marketplace
+156,ORD0076,20-03-2026,1008,Saanvi Nair,Kochi,Kerala,South,204,Office Chair,Furniture,4,5500,0.1,3600,Marketplace
+157,ORD0077,08-04-2026,1010,Kiara Das,Kolkata,West Bengal,East,203,Notebook Pack,Stationery,1,180,0.1,90,Marketplace
+158,ORD0077,08-04-2026,1010,Kiara Das,Kolkata,West Bengal,East,206,USB-C Hub,Electronics,5,2200,0,1450,Marketplace
+159,ORD0077,08-04-2026,1010,Kiara Das,Kolkata,West Bengal,East,205,Water Bottle,Lifestyle,3,472.5,0,210,Marketplace
+160,ORD0078,17-08-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,206,USB-C Hub,Electronics,5,2310,0.1,1450,Store
+161,ORD0078,17-08-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,206,USB-C Hub,Electronics,2,2200,0.15,1450,Store
+162,ORD0079,16-07-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,206,USB-C Hub,Electronics,4,2310,0.1,1450,Store
+163,ORD0080,19-03-2026,1008,Saanvi Nair,Kochi,Kerala,South,206,USB-C Hub,Electronics,1,2310,0,1450,Online
+164,ORD0081,27-09-2026,1008,Saanvi Nair,Kochi,Kerala,South,203,Notebook Pack,Stationery,4,180,0,90,Online
+165,ORD0081,27-09-2026,1008,Saanvi Nair,Kochi,Kerala,South,208,Pen Set,Stationery,3,120,0.15,45,Online
+166,ORD0081,27-09-2026,1008,Saanvi Nair,Kochi,Kerala,South,207,Desk Lamp,Furniture,1,950,0.15,540,Online
+167,ORD0082,14-07-2026,1006,Meera Joshi,Pune,Maharashtra,West,208,Pen Set,Stationery,5,114,0.15,45,Marketplace
+168,ORD0082,14-07-2026,1006,Meera Joshi,Pune,Maharashtra,West,202,Keyboard,Electronics,2,1200,0,720,Marketplace
+169,ORD0082,14-07-2026,1006,Meera Joshi,Pune,Maharashtra,West,202,Keyboard,Electronics,4,1140,0,720,Marketplace
+170,ORD0083,16-08-2026,1003,Kabir Verma,Delhi,Delhi,North,201,Wireless Mouse,Electronics,1,650,0,390,Marketplace
+171,ORD0083,16-08-2026,1003,Kabir Verma,Delhi,Delhi,North,205,Water Bottle,Lifestyle,3,450,0.1,210,Marketplace
+172,ORD0084,16-03-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,203,Notebook Pack,Stationery,2,180,0,90,Marketplace
+173,ORD0084,16-03-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,207,Desk Lamp,Furniture,5,950,0.1,540,Marketplace
+174,ORD0085,15-03-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,205,Water Bottle,Lifestyle,4,450,0,210,Store
+175,ORD0085,15-03-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,208,Pen Set,Stationery,3,120,0,45,Store
+176,ORD0085,15-03-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,208,Pen Set,Stationery,3,120,0.1,45,Store
+177,ORD0086,09-05-2026,1008,Saanvi Nair,Kochi,Kerala,South,207,Desk Lamp,Furniture,4,902.5,0,540,Store
+178,ORD0087,15-07-2026,1010,Kiara Das,Kolkata,West Bengal,East,205,Water Bottle,Lifestyle,3,427.5,0.1,210,Store
+179,ORD0087,15-07-2026,1010,Kiara Das,Kolkata,West Bengal,East,205,Water Bottle,Lifestyle,1,427.5,0.15,210,Store
+180,ORD0087,15-07-2026,1010,Kiara Das,Kolkata,West Bengal,East,208,Pen Set,Stationery,3,120,0.15,45,Store
+181,ORD0088,30-06-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,205,Water Bottle,Lifestyle,2,427.5,0,210,Marketplace
+182,ORD0089,08-06-2026,1008,Saanvi Nair,Kochi,Kerala,South,206,USB-C Hub,Electronics,2,2090,0.05,1450,Online
+183,ORD0089,08-06-2026,1008,Saanvi Nair,Kochi,Kerala,South,206,USB-C Hub,Electronics,4,2200,0,1450,Online
+184,ORD0089,08-06-2026,1008,Saanvi Nair,Kochi,Kerala,South,203,Notebook Pack,Stationery,5,180,0.15,90,Online
+185,ORD0090,14-09-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,208,Pen Set,Stationery,3,120,0,45,Online
+186,ORD0090,14-09-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,208,Pen Set,Stationery,1,120,0,45,Online
+187,ORD0091,23-07-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,207,Desk Lamp,Furniture,1,950,0.15,540,Store
+188,ORD0092,05-03-2026,1008,Saanvi Nair,Kochi,Kerala,South,205,Water Bottle,Lifestyle,5,472.5,0.05,210,Store
+189,ORD0092,05-03-2026,1008,Saanvi Nair,Kochi,Kerala,South,202,Keyboard,Electronics,2,1260,0,720,Store
+190,ORD0092,05-03-2026,1008,Saanvi Nair,Kochi,Kerala,South,206,USB-C Hub,Electronics,5,2200,0,1450,Store
+191,ORD0093,26-08-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,202,Keyboard,Electronics,2,1140,0,720,Marketplace
+192,ORD0093,26-08-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,205,Water Bottle,Lifestyle,4,427.5,0,210,Marketplace
+193,ORD0094,01-05-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,208,Pen Set,Stationery,3,126,0.15,45,Online
+194,ORD0094,01-05-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,203,Notebook Pack,Stationery,4,171,0.1,90,Online
+195,ORD0095,28-07-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,206,USB-C Hub,Electronics,2,2310,0.1,1450,Online
+196,ORD0095,28-07-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,204,Office Chair,Furniture,3,5225,0.05,3600,Online
+197,ORD0095,28-07-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,206,USB-C Hub,Electronics,1,2310,0.05,1450,Online
+198,ORD0096,08-04-2026,1002,Diya Patel,Mumbai,Maharashtra,West,204,Office Chair,Furniture,5,5225,0,3600,Store
+199,ORD0097,20-06-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,204,Office Chair,Furniture,1,5500,0.15,3600,Online
+200,ORD0097,20-06-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,204,Office Chair,Furniture,2,5500,0,3600,Online
+201,ORD0097,20-06-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,201,Wireless Mouse,Electronics,3,650,0,390,Online
+202,ORD0098,09-05-2026,1003,Kabir Verma,Delhi,Delhi,North,201,Wireless Mouse,Electronics,2,617.5,0.05,390,Online
+203,ORD0098,09-05-2026,1003,Kabir Verma,Delhi,Delhi,North,204,Office Chair,Furniture,5,5500,0,3600,Online
+204,ORD0098,09-05-2026,1003,Kabir Verma,Delhi,Delhi,North,203,Notebook Pack,Stationery,3,171,0,90,Online
+205,ORD0099,04-08-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,202,Keyboard,Electronics,4,1260,0.05,720,Online
+206,ORD0099,04-08-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,202,Keyboard,Electronics,4,1200,0.15,720,Online
+207,ORD0099,04-08-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,201,Wireless Mouse,Electronics,5,650,0.1,390,Online
+208,ORD0100,16-01-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,207,Desk Lamp,Furniture,1,997.5,0.1,540,Store
+209,ORD0100,16-01-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,202,Keyboard,Electronics,1,1200,0.15,720,Store
+210,ORD0101,17-03-2026,1002,Diya Patel,Mumbai,Maharashtra,West,206,USB-C Hub,Electronics,4,2200,0.1,1450,Online
+211,ORD0101,17-03-2026,1002,Diya Patel,Mumbai,Maharashtra,West,207,Desk Lamp,Furniture,1,902.5,0.15,540,Online
+212,ORD0102,21-04-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,207,Desk Lamp,Furniture,3,997.5,0.1,540,Store
+213,ORD0103,01-08-2026,1002,Diya Patel,Mumbai,Maharashtra,West,206,USB-C Hub,Electronics,3,2200,0,1450,Store
+214,ORD0103,01-08-2026,1002,Diya Patel,Mumbai,Maharashtra,West,208,Pen Set,Stationery,1,114,0,45,Store
+215,ORD0104,17-02-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,206,USB-C Hub,Electronics,2,2090,0.15,1450,Online
+216,ORD0104,17-02-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,206,USB-C Hub,Electronics,1,2310,0.05,1450,Online
+217,ORD0104,17-02-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,207,Desk Lamp,Furniture,1,950,0.15,540,Online
+218,ORD0105,09-06-2026,1006,Meera Joshi,Pune,Maharashtra,West,204,Office Chair,Furniture,2,5775,0,3600,Online
+219,ORD0105,09-06-2026,1006,Meera Joshi,Pune,Maharashtra,West,202,Keyboard,Electronics,3,1200,0,720,Online
+220,ORD0105,09-06-2026,1006,Meera Joshi,Pune,Maharashtra,West,205,Water Bottle,Lifestyle,5,450,0.1,210,Online
+221,ORD0106,14-01-2026,1010,Kiara Das,Kolkata,West Bengal,East,205,Water Bottle,Lifestyle,1,450,0.05,210,Marketplace
+222,ORD0106,14-01-2026,1010,Kiara Das,Kolkata,West Bengal,East,205,Water Bottle,Lifestyle,3,450,0,210,Marketplace
+223,ORD0106,14-01-2026,1010,Kiara Das,Kolkata,West Bengal,East,203,Notebook Pack,Stationery,2,189,0,90,Marketplace
+224,ORD0107,14-03-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,204,Office Chair,Furniture,4,5775,0.1,3600,Online
+225,ORD0107,14-03-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,206,USB-C Hub,Electronics,2,2200,0.05,1450,Online
+226,ORD0107,14-03-2026,1001,Aarav Sharma,Hyderabad,Telangana,South,206,USB-C Hub,Electronics,5,2090,0,1450,Online
+227,ORD0108,21-03-2026,1003,Kabir Verma,Delhi,Delhi,North,202,Keyboard,Electronics,3,1260,0.1,720,Marketplace
+228,ORD0109,06-09-2026,1010,Kiara Das,Kolkata,West Bengal,East,205,Water Bottle,Lifestyle,2,427.5,0.05,210,Store
+229,ORD0109,06-09-2026,1010,Kiara Das,Kolkata,West Bengal,East,207,Desk Lamp,Furniture,1,950,0.15,540,Store
+230,ORD0110,07-09-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,201,Wireless Mouse,Electronics,2,682.5,0.15,390,Marketplace
+231,ORD0110,07-09-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,201,Wireless Mouse,Electronics,1,650,0.05,390,Marketplace
+232,ORD0111,19-04-2026,1003,Kabir Verma,Delhi,Delhi,North,206,USB-C Hub,Electronics,1,2090,0.1,1450,Store
+233,ORD0111,19-04-2026,1003,Kabir Verma,Delhi,Delhi,North,207,Desk Lamp,Furniture,2,950,0.1,540,Store
+234,ORD0112,28-04-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,206,USB-C Hub,Electronics,1,2310,0,1450,Marketplace
+235,ORD0112,28-04-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,207,Desk Lamp,Furniture,1,997.5,0,540,Marketplace
+236,ORD0112,28-04-2026,1009,Aditya Khan,Lucknow,Uttar Pradesh,North,206,USB-C Hub,Electronics,5,2310,0.15,1450,Marketplace
+237,ORD0113,27-07-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,207,Desk Lamp,Furniture,1,950,0,540,Store
+238,ORD0114,24-08-2026,1006,Meera Joshi,Pune,Maharashtra,West,202,Keyboard,Electronics,2,1260,0.15,720,Online
+239,ORD0114,24-08-2026,1006,Meera Joshi,Pune,Maharashtra,West,207,Desk Lamp,Furniture,5,902.5,0.1,540,Online
+240,ORD0115,08-06-2026,1006,Meera Joshi,Pune,Maharashtra,West,203,Notebook Pack,Stationery,1,171,0.15,90,Online
+241,ORD0115,08-06-2026,1006,Meera Joshi,Pune,Maharashtra,West,204,Office Chair,Furniture,3,5500,0,3600,Online
+242,ORD0116,01-05-2026,1002,Diya Patel,Mumbai,Maharashtra,West,204,Office Chair,Furniture,2,5500,0,3600,Online
+243,ORD0116,01-05-2026,1002,Diya Patel,Mumbai,Maharashtra,West,203,Notebook Pack,Stationery,4,189,0.15,90,Online
+244,ORD0117,18-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,206,USB-C Hub,Electronics,3,2200,0.1,1450,Marketplace
+245,ORD0117,18-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,202,Keyboard,Electronics,4,1260,0.05,720,Marketplace
+246,ORD0117,18-08-2026,1010,Kiara Das,Kolkata,West Bengal,East,205,Water Bottle,Lifestyle,5,427.5,0.05,210,Marketplace
+247,ORD0118,17-09-2026,1002,Diya Patel,Mumbai,Maharashtra,West,208,Pen Set,Stationery,1,114,0.05,45,Store
+248,ORD0118,17-09-2026,1002,Diya Patel,Mumbai,Maharashtra,West,205,Water Bottle,Lifestyle,1,427.5,0.15,210,Store
+249,ORD0119,17-09-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,201,Wireless Mouse,Electronics,4,650,0.05,390,Store
+250,ORD0119,17-09-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,208,Pen Set,Stationery,5,120,0,45,Store
+251,ORD0119,17-09-2026,1007,Ishaan Gupta,Jaipur,Rajasthan,North,208,Pen Set,Stationery,1,120,0,45,Store
+252,ORD0120,16-09-2026,1003,Kabir Verma,Delhi,Delhi,North,208,Pen Set,Stationery,4,120,0.05,45,Online
+5,ORD0003,03-08-2026,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,206,USB-C Hub,Electronics,3,2200,0,1450,Store
+253,ORD0004,19-02-2026,1006,Meera Joshi,Pune,Maharashtra,West,205,Water Bottle,Lifestyle,0,450,0.15,210,Store
+254,ORD0006,18-04-2026,1005,Vivaan Reddy,Bengaluru,Karnataka,South,202,Keyboard,Electronics,5,-99,0.15,720,Marketplace
+255,ORD0007,not-a-date,1004,Anaya Singh,Bhopal,Madhya Pradesh,Central,206,USB-C Hub,Electronics,2,2310,0.1,1450,Online
