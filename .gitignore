@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment and secrets
+.env
+*.log
+
+# MySQL local exports / backups
+*.sql.gz
+*.dump
